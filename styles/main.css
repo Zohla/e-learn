@@ -1,0 +1,56 @@
+
+body {
+    
+}
+#main-div {
+    background-image: url("../assets/images/BG@2x.png");
+    /* display: flex; */
+    
+
+}
+
+#nav {
+    display: flex;
+    width: 1110.44px;
+    height: 66px;
+    border: 1px dotted greenyellow;
+    /* align-content: center; --------------------- this does nothing*/
+    /* justify-content: center;  */
+    
+}
+
+#e-learn {
+    font-size: 2em;
+    margin-right: auto;
+}
+#log-in {
+    margin-left: auto;
+}
+.nav-item {
+    margin: 5px;
+}
+
+#nav li {
+    /* margin:5px; */
+    list-style-type: none;
+    border: 1px solid red;
+    padding: 5px;   
+}
+#upper-content {
+    display: flex;
+    
+}
+#main-div-text{
+    flex-direction: column;
+
+}
+/* #name-header {
+    margin-left: 200px;
+} */
+
+
+
+/* #start-screen-picture {
+    max-width: 500px;
+
+} */
