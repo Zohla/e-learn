@@ -12,7 +12,7 @@ body {
 #main-div {
     
     /* display: flex; */
-    margin: 5px 200px;
+    margin: 5px 300px;
     color: #fff;
     
 
@@ -23,6 +23,7 @@ body {
     width: 1110.44px;
     height: 66px;
     border: 1px dotted greenyellow;
+    padding: 0;
     /* align-content: center; --------------------- this does nothing*/
     /* justify-content: center;  */
     
@@ -54,6 +55,7 @@ body {
 #main-div-text{
     flex-direction: column;
     margin-top: 250px;
+    
 
 }
 #search-field {
@@ -71,7 +73,7 @@ body {
 
 #start-screen-picture {
     position: relative;
-    left: 400px;
+    left: 475px;
     height: 698px;
     
 
