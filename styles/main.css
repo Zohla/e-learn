@@ -22,7 +22,7 @@ body {
     display: flex;
     width: 1110.44px;
     height: 66px;
-    border: 1px dotted greenyellow;
+    /* border: 1px dotted greenyellow; */
     padding: 0;
     /* align-content: center; --------------------- this does nothing*/
     /* justify-content: center;  */
