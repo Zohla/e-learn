@@ -42,7 +42,7 @@ body {
 #nav li {
     /* margin:5px; */
     list-style-type: none;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     padding: 5px;  
      
 }
@@ -53,6 +53,7 @@ body {
 }
 #main-div-text{
     flex-direction: column;
+    margin-top: 250px;
 
 }
 #search-field {
@@ -70,8 +71,9 @@ body {
 
 #start-screen-picture {
     position: relative;
-    left: 600px;
-    max-width: 800px;
+    left: 400px;
+    height: 698px;
+    
 
 
 }
